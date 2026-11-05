@@ -6,17 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [dp](#dp) (1)
-- [implementation](#implementation) (1)
-- [strings](#strings) (2)
+- [implementation](#implementation) (2)
+- [strings](#strings) (3)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 
 ### dp
 
@@ -29,12 +36,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 1446B | [Catching Cheaters](https://codeforces.com/contest/1446/problem/B) | 1800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/1446/B%20-%20Catching%20Cheaters/solution.java) |
 
 ---
