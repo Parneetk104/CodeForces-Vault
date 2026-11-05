@@ -6,16 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [dp](#dp) (1)
 - [implementation](#implementation) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1446B | [Catching Cheaters](https://codeforces.com/contest/1446/problem/B) | 1800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/1446/B%20-%20Catching%20Cheaters/solution.java) |
 
 ### implementation
 
@@ -28,6 +35,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 1446B | [Catching Cheaters](https://codeforces.com/contest/1446/problem/B) | 1800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/1446/B%20-%20Catching%20Cheaters/solution.java) |
 
 ---
 
