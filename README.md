@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 1 | 2 |
 
 ---
 
@@ -14,8 +14,6 @@
 
 - [brute force](#brute-force) (1)
 - [dp](#dp) (1)
-- [implementation](#implementation) (2)
-- [strings](#strings) (3)
 
 ---
 
@@ -23,28 +21,13 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/363/B%20-%20Fence/solution.java) |
 
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 1446B | [Catching Cheaters](https://codeforces.com/contest/1446/problem/B) | 1800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/1446/B%20-%20Catching%20Cheaters/solution.java) |
-
-### implementation
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
-| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
-
-### strings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
-| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
-| 1446B | [Catching Cheaters](https://codeforces.com/contest/1446/problem/B) | 1800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/1446/B%20-%20Catching%20Cheaters/solution.java) |
+| 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/363/B%20-%20Fence/solution.java) |
 
 ---
 
