@@ -6,16 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 6 |
+| 7 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [dp](#dp) (3)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (4)
+- [math](#math) (1)
 - [strings](#strings) (3)
 - [two pointers](#two-pointers) (1)
 
@@ -35,6 +37,7 @@
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/279/B%20-%20Books/solution.java) |
 | 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/363/B%20-%20Fence/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
+| 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/1873/B%20-%20Good%20Kid/solution.java) |
 
 ### dp
 
@@ -44,6 +47,12 @@
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 | 1446B | [Catching Cheaters](https://codeforces.com/contest/1446/problem/B) | 1800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/1446/B%20-%20Catching%20Cheaters/solution.java) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/1873/B%20-%20Good%20Kid/solution.java) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
@@ -52,6 +61,12 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/279/B%20-%20Books/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/1873/B%20-%20Good%20Kid/solution.java) |
 
 ### strings
 
