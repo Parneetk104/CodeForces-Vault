@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 8 |
+| 8 | 9 |
 
 ---
 
@@ -15,9 +15,10 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (5)
 - [dp](#dp) (3)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (4)
-- [math](#math) (1)
+- [math](#math) (2)
+- [sortings](#sortings) (1)
 - [strings](#strings) (3)
 - [two pointers](#two-pointers) (1)
 
@@ -51,6 +52,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.java) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/1873/B%20-%20Good%20Kid/solution.java) |
 
 ### implementation
@@ -66,7 +68,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.java) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/1873/B%20-%20Good%20Kid/solution.java) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [Java 8](https://github.com/Parneetk104/CodeForces-Vault/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.java) |
 
 ### strings
 
